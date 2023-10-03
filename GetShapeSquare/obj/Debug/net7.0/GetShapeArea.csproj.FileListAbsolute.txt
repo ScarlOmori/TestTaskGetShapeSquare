@@ -1,0 +1,12 @@
+C:\Users\daniil.fayzullin\source\repos\GetShapeSquare\GetShapeSquare\bin\Debug\net7.0\GetShapeArea.deps.json
+C:\Users\daniil.fayzullin\source\repos\GetShapeSquare\GetShapeSquare\bin\Debug\net7.0\GetShapeArea.dll
+C:\Users\daniil.fayzullin\source\repos\GetShapeSquare\GetShapeSquare\bin\Debug\net7.0\GetShapeArea.pdb
+C:\Users\daniil.fayzullin\source\repos\GetShapeSquare\GetShapeSquare\obj\Debug\net7.0\GetShapeArea.csproj.AssemblyReference.cache
+C:\Users\daniil.fayzullin\source\repos\GetShapeSquare\GetShapeSquare\obj\Debug\net7.0\GetShapeArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniil.fayzullin\source\repos\GetShapeSquare\GetShapeSquare\obj\Debug\net7.0\GetShapeArea.AssemblyInfoInputs.cache
+C:\Users\daniil.fayzullin\source\repos\GetShapeSquare\GetShapeSquare\obj\Debug\net7.0\GetShapeArea.AssemblyInfo.cs
+C:\Users\daniil.fayzullin\source\repos\GetShapeSquare\GetShapeSquare\obj\Debug\net7.0\GetShapeArea.csproj.CoreCompileInputs.cache
+C:\Users\daniil.fayzullin\source\repos\GetShapeSquare\GetShapeSquare\obj\Debug\net7.0\GetShapeArea.dll
+C:\Users\daniil.fayzullin\source\repos\GetShapeSquare\GetShapeSquare\obj\Debug\net7.0\refint\GetShapeArea.dll
+C:\Users\daniil.fayzullin\source\repos\GetShapeSquare\GetShapeSquare\obj\Debug\net7.0\GetShapeArea.pdb
+C:\Users\daniil.fayzullin\source\repos\GetShapeSquare\GetShapeSquare\obj\Debug\net7.0\ref\GetShapeArea.dll
