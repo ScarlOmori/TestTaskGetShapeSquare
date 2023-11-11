@@ -1,6 +1,6 @@
 SELECT 
     P.ProductName,
-    ISNULL(C.CategoryName, 'Без категории') AS CategoryName
+    ISNULL(C.CategoryName, 'Р‘РµР· РєР°С‚РµРіРѕСЂРёРё') AS CategoryName
 FROM 
     Products P
 LEFT JOIN 
